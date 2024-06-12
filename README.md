@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+<h1> ¡Hola! Soy David Marimón👋</h1>
+</div>
+
+¡Encantado de conocerte! Soy un psicólogo que encontró una nueva pasión en los datos, su exploración, transformación y análisis. 
 
 <!--
 **DaAnMaGi/DaAnMaGi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
